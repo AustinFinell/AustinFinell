@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AustinFinell
-- 👀 I’m interested in learning everything I can about AI and machine learning
+- 👀 I’m interested in learning everything I can about AI and machine learning, doing various projects, and eventually landing a job in the field
 - 🌱 I’m currently learning Python using the CodeCademy pro course for machine learning
 - 💞️ I’m looking to collaborate on any beginner projects or interview projects where I can get my feet wet
 - 📫 How to reach me: austin.finell@gmail.com
