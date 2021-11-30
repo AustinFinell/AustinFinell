@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AustinFinell
-- 👀 I’m interested in learning everything I can about machine learning, doing various projects, and eventually landing a job in the field
+- 👀 I’m interested in learning everything I can about machine learning
 - 🌱 I’m currently learning Java while in school
-- 💞️ I’m looking to collaborate on any beginner projects or interview projects where I can get my feet wet
+- 💞️ I’m looking to collaborate on any beginner projects where I can get learn
 - 📫 How to reach me: austin.finell@gmail.com
 
 <!---
