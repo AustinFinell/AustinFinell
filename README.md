@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AustinFinell
-- 👀 I’m interested in learning everything I can about Programming, and eventually Machine Learning
-- 🌱 I’m currently learning Java while in school
-- 💞️ I’m looking to collaborate on any beginner projects or to joing an internship to learn professional skills
+- 👀 I’m interested in creating solutions to real world problems
+- 🌱 I'm currently delving deeper into data science and machine learning through MIT's program on Making Data-Driven Decisions
+- 💞️ I’m looking to join an internship to work on real world projects while developing my skills
 - 📫 How to reach me: austin.finell@gmail.com
 
 <!---
