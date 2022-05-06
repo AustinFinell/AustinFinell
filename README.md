@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AustinFinell
 - 👀 I’m interested in creating solutions to real world problems
-- 🌱 I'm currently delving deeper into data science and machine learning through MIT's program on Making Data-Driven Decisions
+- 🌱 I'm currently learning data science and machine learning through MIT's program on Making Data-Driven Decisions
 - 💞️ I’m looking to join an internship to work on real world projects while developing my skills
 - 📫 How to reach me: austin.finell@gmail.com
 
