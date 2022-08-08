@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @AustinFinell
-- 👀 I’m interested in creating solutions to real world problems
-- 🌱 I'm currently learning data science and machine learning through MIT's program on Making Data-Driven Decisions
-- 💞️ I’m looking to join an internship to work on real world projects while developing my skills
+- 👀 Interested in creating solutions to real world problems
+- 🌱 Currently learning data science and machine learning through projects
+- :books:  Recently completed MIT's program on Making Data-Driven Decisions
+- :trophy: Team finished 3rd in the Shinkansen bullet train hackathon by GreatLearning
+- 💞️ Pursuing an entry level position related to technology
 - 📫 How to reach me: austin.finell@gmail.com
 
 <!---
